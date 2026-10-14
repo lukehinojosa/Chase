@@ -1,0 +1,25 @@
+# C++ / LibTorch
+third_party/libtorch/
+cmake-build-*/
+*.pt
+training_data*.bin
+
+# Unity (Chase/)
+Chase/[Ll]ibrary/
+Chase/[Tt]emp/
+Chase/[Oo]bj/
+Chase/[Ll]ogs/
+Chase/[Uu]ser[Ss]ettings/
+Chase/[Bb]uild*/
+Chase/*.csproj
+Chase/*.sln
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Other
+/Plan.md
